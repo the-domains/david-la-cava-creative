@@ -16,7 +16,7 @@ navigation:
   - name: Works
     id: 1bbe6400-48ab-470d-a398-5814776eb588
     type: content
-  - name: Welcome to David La Cava | Creative
+  - name: About
     id: a4e38405-1139-4da1-bfc4-163dd8a2d3d0
     type: content
 collections:
