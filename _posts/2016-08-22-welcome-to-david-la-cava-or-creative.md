@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-22T21:29:04.618Z'
-isBasedOnUrl: 'http://www.davelacava.com/'
+datePublished: '2016-08-22T21:29:50.719Z'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-22T19:36:54.488Z'
+dateModified: '2016-08-22T21:29:50.415Z'
 title: Welcome to David La Cava | Creative
 app_links: []
 publisher:
@@ -17,11 +16,10 @@ description: >-
   David La Cava offers graphic design services for entertainment, branding,
   advertising and destination marketing. For over 15 years I've developed
   effective creative strategies for businesses worldwide.
-starred: false
 sourcePath: _posts/2016-08-22-welcome-to-david-la-cava-or-creative.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: welcome-to-david-la-cava-or-creative/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
