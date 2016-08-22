@@ -1,0 +1,26 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3136201
+color:
+  saturation: 0.8064516
+  brandStrength: 0.8261649
+  rhythmicContrast: 0.4247312
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  lightness: 0.6612903
+layout_spectrum: 0.9731183
+name: David La Cava Creative
